@@ -12,5 +12,7 @@ The idea and data for this project are from [DataCamp](https://projects.datacamp
 
 ## Contact
 
+You can reach me via the following channels:
+
 - [LinkedIn](inkedin.com/in/nzubeifechukwu/)
 - [X](x.com/nzubeIfechukwu)
